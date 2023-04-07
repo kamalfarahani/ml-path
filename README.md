@@ -15,12 +15,19 @@ This repsitory contains links for learning machine learning from beginner to adv
   * [Linear Algebra Done Right](https://www.youtube.com/playlist?list=PLoxJTbDttvt7ny0WEJHWw6-0Sjx7EImIQ)
 
 ### Calculus
-
 * **Books:**
-  * [Prelude to Calculus](https://activecalculus.org/APC.html)
-  * [Calculus 1 & 2](https://activecalculus.org/ACS.html)
-  * [Multivariable Calculus](https://activecalculus.org/ACM.html)
+  * [Prelude to Calculus (Matthew Boelkins)](https://activecalculus.org/APC.html)
+  * [Calculus 1 & 2 (David Austin & Steven Schlicker)](https://activecalculus.org/ACS.html)
+  * [Multivariable Calculus David Austin & Matthew Boelkins)](https://activecalculus.org/ACM.html)
 * **Videos**:
-  * [Calculus 1](https://www.youtube.com/playlist?list=PLF797E961509B4EB5)
-  * [Calculus 2](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-)
-  * [Calculus 3](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
+  * [Calculus 1 (Prof Leonard)](https://www.youtube.com/playlist?list=PLF797E961509B4EB5)
+  * [Calculus 2 (Prof Leonard)](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-)
+  * [Calculus 3 (Prof Leonard)](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
+
+### Basic Probability and Statistics
+* **Books:**
+  * [Introduction to Probability (Joseph K. Blitzstein)](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)
+  * [Introduction to Modern Statistics (Mine Çetinkaya-Rundel and Johanna Hardin)](https://openintro-ims.netlify.app/index.html)
+* **Videos:**
+  * [Introduction to Probability (Joseph K. Blitzstein)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+  * [Statistics (Prof Leonard)](https://www.youtube.com/playlist?list=PL5901C68C96DFCAD1)
