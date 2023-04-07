@@ -4,7 +4,7 @@ This repsitory contains links for learning machine learning from beginner to adv
 
 ## Math for Machine Learning
 
-#### Linear Algebra:
+### Linear Algebra:
 * **Books:**
   * [Understanding Linear Algebra](https://davidaustinm.github.io/ula/ula.html)
   * [Introduction to Linear Algebra (Gilbert Strang)](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775)
