@@ -31,3 +31,5 @@ This repsitory contains links for learning machine learning from beginner to adv
 * **Videos:**
   * [Introduction to Probability (Joseph K. Blitzstein)](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
   * [Statistics (Prof Leonard)](https://www.youtube.com/playlist?list=PL5901C68C96DFCAD1)
+* **Materials:**
+  * [Introduction to Probability (Joseph K. Blitzstein)](https://projects.iq.harvard.edu/stat110/home)
