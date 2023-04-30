@@ -43,3 +43,10 @@ This repsitory contains links for learning ***machine learning*** from beginner 
   * [Linear Programming (Wenshenpsu)](https://www.youtube.com/playlist?list=PLbxFfU5GKZz1Tm_9RR5M_uvdOXpJJ8LC3)
 * **Materials:**
   * [Optimization (Geoff Gordon CMU)](http://www.cs.cmu.edu/~ggordon/10725-F12/schedule.html)
+
+### Diffrential Equations
+* **Books:**
+  * [Notes on Diffy Qs: Differential Equations for Engineers (Jiří Lebl)](https://www.jirka.org/diffyqs/html/diffyqs.html)
+
+* **Videos**:
+  * [Differential Equations (Prof Leonard)](https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
