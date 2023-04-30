@@ -44,7 +44,7 @@ This repsitory contains links for learning ***machine learning*** from beginner 
 * **Materials:**
   * [Optimization (Geoff Gordon CMU)](http://www.cs.cmu.edu/~ggordon/10725-F12/schedule.html)
 
-### Diffrential Equations
+### Differential Equations
 * **Books:**
   * [Notes on Diffy Qs: Differential Equations for Engineers (Jiří Lebl)](https://www.jirka.org/diffyqs/html/diffyqs.html)
 
