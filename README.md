@@ -2,7 +2,7 @@
 
 This repsitory contains links for learning ***machine learning*** from beginner to advanced.
 
-## Math for Machine Learning
+## Basic Math for Machine Learning
 
 ### Linear Algebra:
 * **Books:**
@@ -33,3 +33,13 @@ This repsitory contains links for learning ***machine learning*** from beginner 
   * [Statistics (Prof Leonard)](https://www.youtube.com/playlist?list=PL5901C68C96DFCAD1)
 * **Materials:**
   * [Introduction to Probability (Joseph K. Blitzstein)](https://projects.iq.harvard.edu/stat110/home)
+
+### Optimization
+* **Books:**
+  * [Convex Optimization (Stephen Boyd and Lieven Vandenberghe)](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+  * [An Introduction to Linear Programming and Game Theory (Paul R. Thie, Gerard E. Keough)](https://www.amazon.com/Introduction-Linear-Programming-Game-Theory/dp/0470232862)
+* **Videos:**
+  * [Optimization (Geoff Gordon CMU)](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDOv91McLOnV4kExFfTB7dU)
+  * [Linear Programming (Wenshenpsu)](https://www.youtube.com/playlist?list=PLbxFfU5GKZz1Tm_9RR5M_uvdOXpJJ8LC3)
+* **Materials:**
+  * [Optimization (Geoff Gordon CMU)](http://www.cs.cmu.edu/~ggordon/10725-F12/schedule.html)
