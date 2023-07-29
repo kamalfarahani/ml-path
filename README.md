@@ -50,3 +50,11 @@ This repsitory contains links for learning ***machine learning*** from beginner 
 
 * **Videos**:
   * [Differential Equations (Prof Leonard)](https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
+
+
+## Data Visualization
+
+### Matplotlib
+
+* **Books**:
+  * [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book)
